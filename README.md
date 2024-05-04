@@ -19,3 +19,9 @@ aaa
 [![Active Challenges widget](https://stg-embeddables.devactivity.com/orgs/dA4TestOS/012fa250-c8bd-4f38-8bdc-029c2ca0c532.svg)](https://staging.devactivity.com/public/?organizationLogin=dA4TestOS#nav-achievements)
 ---
 <sup><sub>Check also our [Public Dashboard](https://app.devactivity.com/public/?organizationLogin=dA4TestOS) powered by [devActivity](https://devactivity.com/?ref=public_widget)</sub></sup>
+
+### Achievements widget
+---
+![Achievements widget](https://stg-embeddables.devactivity.com/orgs/dA4TestOS/21f1f1c7-e10c-41eb-8944-8b38955dfbd9.svg)
+---
+<sup><sub>Check also our [Public Dashboard](https://app.devactivity.com/public/?organizationLogin=dA4TestOS) powered by [devActivity](https://devactivity.com/?ref=public_widget)</sub></sup>
