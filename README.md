@@ -13,3 +13,9 @@ aaa
 ![Top Contributors (Last 45 days) widget](https://stg-embeddables.devactivity.com/orgs/dA4TestOS/dd545a34-759c-46b4-9255-664e32b42b50.svg)
 ---
 <sup><sub>Check also our [Public Dashboard](https://app.devactivity.com/public/?organizationLogin=dA4TestOS) powered by [devActivity](https://devactivity.com/?ref=public_widget)</sub></sup>
+
+### Active Challenges widget
+---
+[![Active Challenges widget](https://stg-embeddables.devactivity.com/orgs/dA4TestOS/012fa250-c8bd-4f38-8bdc-029c2ca0c532.svg)](https://staging.devactivity.com/public/?organizationLogin=dA4TestOS#nav-achievements)
+---
+<sup><sub>Check also our [Public Dashboard](https://app.devactivity.com/public/?organizationLogin=dA4TestOS) powered by [devActivity](https://devactivity.com/?ref=public_widget)</sub></sup>
