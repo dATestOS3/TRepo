@@ -1,4 +1,4 @@
-# Contributing to Maybe
+## Contributing to Maybe
 
 It means so much that you're interested in contributing to Maybe! Seriously. Thank you. The entire community benefits from these contributions!
 
